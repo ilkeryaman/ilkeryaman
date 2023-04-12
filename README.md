@@ -5,9 +5,9 @@
 Welcome to my page!
 I'm Ilker, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111548.png" width="13"/> <b>Istanbul, Türkiye</b>.
 
-I have experience more than 10 years in different roles such as software architect, team lead and developer.
+I have more than 10 years experience in different roles such as software architect, team lead and developer.
 
-<h3>Technologies I work with</h3>
+<h3>Technologies I work with:</h3>
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -30,6 +30,6 @@ I have experience more than 10 years in different roles such as software archite
   <img alt="Red Hat Openshift" src="https://img.shields.io/badge/-Red%20Hat%20Openshift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
 </p>
 
-<h3>Where to find me</h3>
+<h3>Where to find me:</h3>
 <p><a href="https://github.com/ilkeryaman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-ilkeryaman-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://twitter.com/ahmetilkeryaman" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-ahmetilkeryaman-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmetilkeryaman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-ahmetilkeryaman-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
