@@ -1,4 +1,4 @@
-<img src="https://github.com/ilkeryaman/ilkeryaman/blob/main/Ahmet%20Ilker%20Yaman.svg" alt="Ahmet Ilker Yaman" />
+<img src="https://github.com/ilkeryaman/ilkeryaman/blob/main/Ahmet%20Ilker%20Yaman.svg" alt="Ahmet Ilker Yaman" style="width: 100%;"  />
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
